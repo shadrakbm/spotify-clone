@@ -13,6 +13,10 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
     },
+    fontFamily: {
+      custom: ['Montserrat', 'sans-serif'],
+      'custom-bold': ['Montserrat-Bold', 'sans-serif'],
+    },
   },
   plugins: [],
 }
